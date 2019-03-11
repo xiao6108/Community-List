@@ -1,0 +1,40 @@
+.modal-body p {
+	text-transform: capitalize;
+}
+
+#show-people-name {
+	font-size: 30px ;
+}
+
+.card-name {
+	font-size: 18px;
+}
+
+.card-footer {
+	text-align: center;
+}
+
+.card-surname {
+	color: #33313b;
+  font-size: 12px;
+}
+
+img {
+	cursor: pointer;
+}
+
+#show-people-body, .card-body, .card-footer {
+  background-color: #ffa900;
+}
+
+.namecard {
+  border-radius: 20px;
+  overflow: hidden;
+}
+.card-img-top {
+  opacity: 0.6;
+  transition-duration: 0.5s;
+}
+.card-img-top:hover {
+  opacity: 1;
+}
